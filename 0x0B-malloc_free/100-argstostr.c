@@ -16,7 +16,6 @@ int _strlen(char *s)
 	return (size);
 }
 
-// khtna darba hafdik gggnn
 
 /**
  * *argstostr - description
